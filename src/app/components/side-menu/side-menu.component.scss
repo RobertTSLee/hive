@@ -1,0 +1,10 @@
+@import '../../scss-common/flex-box';
+@import '../../scss-common/material-card';
+
+$background: #F5F5F5;
+
+.side-menu-body {
+    background: $background;
+    height: 100%;
+    width: 100%;
+}

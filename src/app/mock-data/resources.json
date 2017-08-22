@@ -1,0 +1,16 @@
+[
+    {
+        "title": "JS Method Chaining",
+        "type": "url",
+        "url": "https://schier.co/blog/2013/11/14/method-chaining-in-javascript.html",
+        "tags": ["JavaScript"],
+        "rating": 3
+    }, {
+        "title": "JS Funtion explicit scope binding",
+        "type": "url",
+        "url": "https://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailnamespacing",
+        "tags": ["JS"],
+        "rating": 3
+    }
+
+]
